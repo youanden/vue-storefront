@@ -16,7 +16,7 @@
 import { coreComponent } from 'core/lib/themes'
 
 export default {
-  mixins: [coreComponent('SizeButton')]
+  mixins: [coreComponent('SizeSelector')]
 }
 </script>
 
