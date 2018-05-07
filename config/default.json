@@ -33,7 +33,7 @@
       }
     },
     "users": {
-      "endpoint": "http://localhost:8080/api/user"
+      "endpoint": "http://dockerized-magento.local/vsbridge/user"
     },
     "stock": {
       "synchronize": true,
