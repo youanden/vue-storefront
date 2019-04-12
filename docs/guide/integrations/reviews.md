@@ -5,7 +5,7 @@ Starting with 1.4.0 release Vue Storefront is supporting Magento2 product review
 Installation steps (in your Magento2 directory):
 
 ```bash
-config repositories.divante vcs https://github.com/DivanteLtd/magento2-review-api.git
+composer config repositories.divante vcs https://github.com/DivanteLtd/magento2-review-api.git
 composer require divante/magento2-review-api:dev-master
 php bin/magento setup:upgrade
 ```
